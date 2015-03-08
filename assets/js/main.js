@@ -2,7 +2,7 @@ $(function() {
     var boy = $('.boy');
     var girl = $('.girl');
     var present = $('.present');
-    delay(2000, function() {
+    delay(1000, function() {
         goLeft(boy, 20, function() {
             $(this).find('span').show();
             delay(3000, function() {
