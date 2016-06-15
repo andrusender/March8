@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7458ea76-923c-46df-8988-01dd187533cb" name="Default" comment="">
-      <change type="DELETED" beforePath="F:\www\andrusender.github.io\index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="andrusender.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466003817254" ignored="false" />
-    <file path="/index.html" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466008747151" ignored="false" />
+    <file path="/index.html" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466009178240" ignored="false" />
     <file path="/config.rb" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466004062899" ignored="false" />
-    <file path="/main.scss" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466008864558" ignored="false" />
+    <file path="/main.scss" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466009080864" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/app/css/main.css" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466009158121" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,19 +31,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="23" selection-start="568" selection-end="568" vertical-scroll-proportion="-12.16">
+            <state line="18" column="42" selection-start="659" selection-end="659" vertical-scroll-proportion="0.33566433">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/app/sass/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="8" selection-start="692" selection-end="692" vertical-scroll-proportion="0.5288788">
+            <state line="51" column="2" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -68,8 +70,8 @@
         <option value="$PROJECT_DIR$/assets/config.rb" />
         <option value="$PROJECT_DIR$/assets/sass/main.scss" />
         <option value="$PROJECT_DIR$/e" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/app/sass/main.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -347,16 +349,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/app/sass/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="23" selection-start="568" selection-end="568" vertical-scroll-proportion="-12.16">
+        <state line="51" column="2" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/sass/main.scss">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="8" selection-start="692" selection-end="692" vertical-scroll-proportion="0.5288788">
+        <state line="18" column="42" selection-start="659" selection-end="659" vertical-scroll-proportion="0.33566433">
           <folding />
         </state>
       </provider>
