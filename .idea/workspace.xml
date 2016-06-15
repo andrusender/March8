@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7458ea76-923c-46df-8988-01dd187533cb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="andrusender.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466003817254" ignored="false" />
-    <file path="/index.html" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466011867740" ignored="false" />
+    <file path="/index.html" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466012365203" ignored="false" />
     <file path="/config.rb" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466004062899" ignored="false" />
     <file path="/main.scss" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466012042834" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +33,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="72" selection-start="102" selection-end="102" vertical-scroll-proportion="0.055944055">
+            <state line="65" column="21" selection-start="3093" selection-end="3093" vertical-scroll-proportion="0.5407925">
               <folding />
             </state>
           </provider>
@@ -356,7 +357,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="72" selection-start="102" selection-end="102" vertical-scroll-proportion="0.055944055">
+        <state line="65" column="21" selection-start="3093" selection-end="3093" vertical-scroll-proportion="0.5407925">
           <folding />
         </state>
       </provider>
