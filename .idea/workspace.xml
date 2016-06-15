@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7458ea76-923c-46df-8988-01dd187533cb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/css/main.css" afterPath="$PROJECT_DIR$/assets/app/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/sass/main.scss" afterPath="$PROJECT_DIR$/assets/app/sass/main.scss" />
     </list>
     <ignored path="andrusender.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466003817254" ignored="false" />
     <file path="/index.html" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466012481844" ignored="false" />
     <file path="/config.rb" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466004062899" ignored="false" />
-    <file path="/main.scss" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466012042834" ignored="false" />
+    <file path="/main.scss" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466012537739" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,19 +30,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="19" selection-start="3108" selection-end="3108" vertical-scroll-proportion="0.55944055">
+            <state line="66" column="19" selection-start="3108" selection-end="3108" vertical-scroll-proportion="-19.2">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/app/sass/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="18" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
+            <state line="95" column="14" selection-start="1128" selection-end="1128" vertical-scroll-proportion="0.85503966">
               <folding />
             </state>
           </provider>
@@ -68,8 +69,8 @@
         <option value="$PROJECT_DIR$/assets/config.rb" />
         <option value="$PROJECT_DIR$/assets/sass/main.scss" />
         <option value="$PROJECT_DIR$/e" />
-        <option value="$PROJECT_DIR$/assets/app/sass/main.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/app/sass/main.scss" />
       </list>
     </option>
   </component>
@@ -347,16 +348,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/sass/main.scss">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="18" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
+        <state line="66" column="19" selection-start="3108" selection-end="3108" vertical-scroll-proportion="-19.2">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/app/sass/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="19" selection-start="3108" selection-end="3108" vertical-scroll-proportion="0.55944055">
+        <state line="95" column="14" selection-start="1128" selection-end="1128" vertical-scroll-proportion="0.85503966">
           <folding />
         </state>
       </provider>
