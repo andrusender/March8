@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7458ea76-923c-46df-8988-01dd187533cb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/css/main.css" afterPath="$PROJECT_DIR$/assets/app/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/sass/main.scss" afterPath="$PROJECT_DIR$/assets/app/sass/main.scss" />
     </list>
     <ignored path="andrusender.github.io.iws" />
@@ -11,6 +10,7 @@
     <file path="/index.html" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466012481844" ignored="false" />
     <file path="/config.rb" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466004062899" ignored="false" />
     <file path="/main.scss" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466012537739" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/app/css/main.css" changelist="7458ea76-923c-46df-8988-01dd187533cb" time="1466012610989" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
