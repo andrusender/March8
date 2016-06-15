@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7458ea76-923c-46df-8988-01dd187533cb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/css/main.css" afterPath="$PROJECT_DIR$/assets/app/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/sass/main.scss" afterPath="$PROJECT_DIR$/assets/app/sass/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="andrusender.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,7 +32,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="41" selection-start="678" selection-end="678" vertical-scroll-proportion="0.33566433">
+            <state line="3" column="72" selection-start="102" selection-end="102" vertical-scroll-proportion="0.055944055">
               <folding />
             </state>
           </provider>
@@ -359,7 +356,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="41" selection-start="678" selection-end="678" vertical-scroll-proportion="0.33566433">
+        <state line="3" column="72" selection-start="102" selection-end="102" vertical-scroll-proportion="0.055944055">
           <folding />
         </state>
       </provider>
