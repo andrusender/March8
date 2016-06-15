@@ -1,0 +1,89 @@
+@import "compass/reset";
+
+$width: 800px;
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #727272;
+  margin: 0;
+  padding: 0 0 40px 0;
+  line-height: 1.5;
+}
+
+b, strong {
+  font-weight: bold;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: bold;
+  margin: 12px 0;
+}
+
+h2 {
+  font-size: 24px;
+  color: darken(#757575, 15);
+}
+
+h3 {
+  font-size: 18px;
+}
+
+p {
+  margin: 7px 0;
+}
+
+.f-left {
+  float: left;
+}
+
+.f-right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+.clearfix {
+  overflow: hidden;
+}
+
+.wrap {
+  width: $width;
+  margin: 0 auto;
+}
+
+.header {
+  border-bottom: solid 1px #ddd;
+  background: #fff;
+  position: fixed;
+  width: $width;
+}
+
+.content {
+  padding-top: 120px;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #000;
+  small {
+    font-weight: normal;
+    display: block;
+    font-size: 13px;
+    line-height: 16px;
+    background: #c41200;
+    color: #fff;
+    padding: 6px 10px;
+  }
+}
+
+ul {
+  margin-left: 40px;
+  list-style: circle;
+  li {
+    margin: 10px 0;
+  }
+}
